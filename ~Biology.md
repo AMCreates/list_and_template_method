@@ -16,7 +16,7 @@ More amphibious looking
 Possibly leads to traveling between worlds?
 
 # Animals and Creatures
-Giant sea creatures 
-Wyverns? 
-Glow bugs
+- Giant sea creatures 
+- Wyverns? 
+- Glow bugs
 
