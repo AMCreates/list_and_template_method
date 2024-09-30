@@ -1,5 +1,5 @@
 # Quick Note
-Species cannot cross-breed. It is against their nature and biologically impossible. While humans do not exist, I will be basing the appearances of the species on NOX off them, at least for now.
+Species cannot cross-breed. It is against their nature and biologically impossible. While humans do not exist, I will be basing the appearances of the following intelligent species of NOX off them, at least for now.
 
 # Animus
 - The Animus is a species living on NOX that is made up of a few different subspecies (I may add more later). They all have wings and can fly, but each subspecies has different abilities, strengths, weaknesses, and experiences in society. Skin color amongst the Animus varies, but will always be a neutral color (like humans). The Animus are naturally omnivorous.
