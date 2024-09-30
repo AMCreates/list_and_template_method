@@ -13,14 +13,14 @@ Species cannot cross-breed. It is against their nature and biologically impossib
 - Bat Animus can use echolocation to communicate with each other and locate objects when the Void Star is not in the sky or there are unusually low-light conditions. They also, in general, have great hearing and sharp fangs that they can use to fight with if needed. 
 
 ## 2. Aves Animus: 
-- Aves Animus have a pair of feathered wings on their backs. These wings vary greatly with different colors, patters, sizes, and feather shapes. 
+- Aves Animus have a pair of feathered wings on their backs. These wings vary greatly with different colors, patterns, sizes, and feather shapes. Wings that feature distinct and symmetrical patterns are seen as more beautiful. 
 
 ### Abilities:
 - The Aves Animus have incredibly strong wings, allowing them to fly in unstable flying conditions and strong winds more easily. They are best at flying long distances but can reach great speeds over time while gliding or diving. They are also better in the extreme cold than other Animus. Aves Animus also have very impressive vision, allowing them to see small objects from very far away. This helps when they are flying high in the sky to see things going on down below. 
 
 
 ## 3. Moth Animus:
-- The Moth Animus have a distinct pair of moth-like wings on their backs. These wings vary in color, shape, pattern, and size. Moth Animus are typically not as physically strong as the other Animus subspecies due to not being able to gain muscle as easily, but it is not impossible. They are not as good at flying either, but they are silent fliers, allowing them to get around quietly. Moth Animus are known for their beauty, which is why most exotic performers are moths. 
+- The Moth Animus have a distinct pair of moth-like wings on their backs. These wings vary in color, shape, pattern, and size. Moth Animus are typically not as physically strong as the other Animus subspecies due to not being able to gain muscle as easily, but it is not impossible. They are not as good at flying either, but they are silent fliers, allowing them to get around quietly. Moth Animus are known for their beauty, which is why most exotic performers are moths. A beauty standard amongst moths is wing pattern symmetry. 
 
 ### Abilities:
 - The Moth Animus have a natural talent for stealth. They can camouflage themselves into any environment and erase their presence. With practice, they can become undetectable in every way possible. While it has never been officially reported, there are rumors that some Moth Animus can go through "The Change." (the names >n< I KNOW IM SORRY AHH) This event is when, for some reason, the Moth Animus gains a special ability. Some say that they gain the power to control someone's mind, or that they can even morph into other people. 
@@ -42,16 +42,17 @@ Every day life
 
 
 # Wellow
-One is human-like and the other is animalistic. A dark entity. 
-They live in the mountainous forests and caves.
-They do not like the noise of the city and prefer to be closer to nature.
-That side of them is stronger and faster, but can’t talk. 
-No one is sure which version is “original,” they are born as both. 
-A people said to be blessed by the god of the moon.
+- The Wellow are a reclusive group that rarely leaves the forest. They are also rather secretive and prefer to stay cut off from the rest of the world.
+- These beings have two distinct sides. The first looks pretty human, with the addition of fangs, pointed ears, claws, and glowing eyes. Their eye colors include yellow, green, brown, and amber. When the Void Star leaves the sky, they change. Their second form is darker, stronger, faster, and scarier. In this form, the Wellow turn into large shadowy four-legged beings that are covered in a mix of feathers, fur, and haziness. Their eyes glow a hollow white, which pierces through the darkness of their forest. When they open their elongated jaws, sharp dark teeth are surely there. They become incredibly sensitive to light, so they will stay in their forest. In this form, they also cannot speak verbally. Although, they are able to communicate with eachother in their own way (like telepathy).
+-  The Wellow are not a fan of light or noise and prefer to stay closer to nature.
+-  They do not use any advanced technology, just simple mechanical inventions that are used manually, such as pulley systems.
+-  The Wellow are very spiritual and believe that the Void Beings still watch over them. They worship these beings, especially the being that created them, by meditating and presenting offerings of foraged items, artisan goods, and hand-made items.
+
+
+
 Some people wanted to research them and try to use them to make super soldiers. Created a new type of person, but they can’t control the dark side. 
-Prefer quiet dark places.
-Pretty secretive people; people do not really see them
-Very spiritual people
+
+
 
 Abilities 
 
