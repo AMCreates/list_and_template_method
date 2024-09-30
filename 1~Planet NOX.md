@@ -59,12 +59,16 @@ The tides (dangerous area full of currents)
 # Maps
 
 # Natural resources
-They also have a beautiful stone called Valorite that is seen as sacred to them. 
+- Valorite is a sacred crystal on NOX. This crystal is pitch black and can only be mined in certain locations. The Wellow provides most of this resource.
+- Star Stone is used to create Star Stones, which is NOX currency. It is a beautiful slightly translucent white stone. This stone can only be found at very high altitudes, so it is mined by the Animus. 
 
 
 # Economy
+- The world uses a global currency called Star Stones. They are these white smooth circular flat stones, about the size of a quarter, that have small ridges worn into the sides. This currency is used the most in Skyline City.
+- Most people outside Skyline City still rely on trading goods when possible. 
 
-
+# NOX Government
+The people of NOX all function under a council of five individuals, one from each group (Bats, Moths, Avons, the Azuli, the Wellow).
 
 # Influences
 - Nivek from Star Wars
