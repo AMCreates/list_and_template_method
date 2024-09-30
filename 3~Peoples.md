@@ -23,7 +23,7 @@ The Aves Animus have incredibly strong wings, allowing them to fly in unstable f
 ## 3. Moth Animus:
 
 ### Abilities:
-The Moth Animus have a natural talent for stealth. They can camouflage themselves into any environment and erase their presence. While it has never been officially reported, there are rumors that some Moth Animus can go through "The Change." (the names >n< I KNOW IM SORRY AHH) This event is when, for some reason, the Moth Animus gains a special ability. Some say that they gain the power to control someone's mind, or that they can even morph into other people. 
+The Moth Animus have a natural talent for stealth. They can camouflage themselves into any environment and erase their presence. With practice, they can become undetectable in every way possible. While it has never been officially reported, there are rumors that some Moth Animus can go through "The Change." (the names >n< I KNOW IM SORRY AHH) This event is when, for some reason, the Moth Animus gains a special ability. Some say that they gain the power to control someone's mind, or that they can even morph into other people. 
 
 
 Have animalistic traits of nocturnal winged creatures
