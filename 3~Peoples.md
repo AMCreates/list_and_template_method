@@ -35,7 +35,7 @@ Species cannot cross-breed. It is against their nature and biologically impossib
 
 # Wellow
 - The Wellow are a reclusive group that rarely leaves the forest. They are also rather secretive and prefer to stay cut off from the rest of the world.
-- These beings have two distinct sides. The first looks pretty human, with the addition of fangs, pointed ears, claws, and glowing eyes. Their eye colors include yellow, green, brown, and amber. When the Void Star leaves the sky, they change. Their second form is darker, stronger, faster, and scarier. In this form, the Wellow turn into large shadowy four-legged beings that are covered in a mix of feathers, fur, and haziness. Their eyes glow a hollow white, which pierces through the darkness of their forest. When they open their elongated jaws, sharp dark teeth are surely there. They become incredibly sensitive to light, so they will stay in their forest. In this form, they also cannot speak verbally. Although, they are able to communicate with eachother in their own way (like telepathy).
+- These beings have two distinct sides. The first looks pretty human, with the addition of fangs, pointed ears, claws, and glowing eyes. Their eye colors include yellow, green, brown, and amber. When the Void Star leaves the sky, they change. Their second form is darker, stronger, faster, and scarier. In this form, the Wellow turn into large shadowy four-legged beings that are covered in a mix of feathers, fur, and haziness. Their eyes glow a hollow white, which pierces through the darkness of their forest. When they open their elongated jaws, sharp dark teeth are surely there. They become incredibly sensitive to light, so they will stay in their forest. In this form, they also cannot speak verbally. Although, they are able to communicate with each other in their own way (like telepathy).
 -  The Wellow are not a fan of light or noise and prefer to stay closer to nature.
 -  They do not use any advanced technology, just simple mechanical inventions that are used manually, such as pulley systems.
 -  The Wellow are very spiritual and believe that the Void Beings still watch over them. They worship these beings, especially the being that created them, by meditating and presenting offerings of foraged items, artisan goods, and hand-made items.
@@ -44,34 +44,14 @@ Species cannot cross-breed. It is against their nature and biologically impossib
 
 
 # Azuli
-People who can travel at super speed through water. 
-Have to hold their breath. 
-Leads to a whole new type of super-fast fighting. 
-Look human-like but their veins glow (universal patterns)
-More amphibious looking
-Possibly leads to traveling between worlds?
-Live in and near the water
-Great swimmers
-Rely on the sea for hunting
-Strong community 
-
-Abilities
-
-Culture
-- What is right and wrong?
-- Differences between cultures
-- Class or caste systems
-- Historical backgrounds
-- Structures that support or underpin cultures in this world
-
-View On war
-Every day life
+- The Azuli are a people who live side by side with water. They typically stick to the coasts. Most of them live on the Azuli Coast and are known to have strong community and family bonds. Those from Skyline City often say that the Azuli are too laid back.
+- Appearance wise, they are human-like, but their skin ranges from light blue to deep navy. They have webbed hands and feet, and often have spots on their shoulders. Thier white to light blue bioluminecent markings are in the form of spirals and curves that wrap around their bodies. Eye colors for the Azuli range from white to blue to black.
+- The Azuli are great swimmers and can hold their breath for up to 15 minutes with training. They also have the ability to travel through water. It is almost like they can teleport if they are touching water, but really they are traveling through the water to a different location at a high speed. Water is their main mode of transportation.
+- They are skilled at hand-to-hand fighting and have a history of using spears and staffs.
+- The Azuli play an important role in trade. They deliver seafood to other regions because they are the best at gathering it.
+- They live comfortably with nature and technology, even more so than the Animus. 
+- Some Azuli have the ability to manipulate water. This is pretty random. The Azuli still respect the Void Beings a lot, so some will pray to them that their children are granted the gift. 
 
 
-Eyes:
-Theyd all have great night vision; large pupils at night or in darkness
-Pupils could become more sharp around a lot of bioluminesence 
-Azuli have white, silver, and blue eyes
-Anima would have a larger variety of eye colors
-Wellows would have yellow, green, and brown eye colors.
+
 
