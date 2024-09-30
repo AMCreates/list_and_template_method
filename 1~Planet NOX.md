@@ -1,6 +1,7 @@
 # Planet NOX General
 
-This planet is very dark and would look like it is always night-time (based on what we define as night). The sky would be clear, allowing the stars and even galaxies to be visible from the surface of the planet. This planet orbits a very rare type of star called a Void Star. This type of star emits a unique kind of energy called Obsallum, which is hot but not very bright. (The “light” that it does produce is not on our light spectrum). The night is called “_______” and the day is called “________”. The day looks like our night with the void star in the sky and a little bit of moonlight-like illumination from it. Their version of night is a dark sky with stars, but no other planetary bodies visible. Their night is very very dark and the only natural light source visible during this time comes from the planet itself in plants, creatures, and other natural elements. Life on this planet revolves around this day/night cycle similar to how we do.
+This planet is very dark and would look like it is always night-time (based on what we define as night). The sky would be clear, allowing the stars and even galaxies to be visible from the surface of the planet. This planet orbits a very rare type of star called a Void Star. This type of star emits a unique kind of energy called Obsallum, which is hot but not very bright. (The “light” that it does produce is not on our light spectrum). The night is called “_______” and the day is called “________”. The day looks like our night with the void star in the sky and a little bit of moonlight-like illumination from it. Their version of night is a dark sky with stars, but no other planetary bodies visible. Their night is very very dark and the only natural light source visible during this time comes from the planet itself in plants, creatures, and other natural elements. Life on this planet revolves around this day/night cycle similar to how we do. 
+
 
 
 # Climate and Some Geography Notes
@@ -58,6 +59,8 @@ The tides (dangerous area full of currents)
 # Maps
 
 # Natural resources
+They also have a beautiful stone called Valorite that is seen as sacred to them. 
+
 
 # Economy
 
