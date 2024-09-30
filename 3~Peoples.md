@@ -7,20 +7,20 @@ Species cannot cross-breed. It is against their nature and biologically impossib
 ## Subspecies
 
 ## 1. Bat Animus:
-- Bat Animus have a pair of bat wings on their backs. These wings vary in color from black to tan. They may not be as strong as the Aves Animus, but they are faster with short-distance flying and more agile. 
+- Bat Animus have a pair of bat wings on their backs. These wings vary in color from black to tan. They may not be as strong as the Aves Animus, but they are faster with short-distance flying and more agile. Bioluminescence occurs on the wings and near the face mostly, but it varies a lot among bats. In their society, bats often work in cave mines, education, music, and more. They do well in just about anything, but recent bat gang activity has caused a lot of unease. 
 
 ### Abilities:
 - Bat Animus can use echolocation to communicate with each other and locate objects when the Void Star is not in the sky or there are unusually low-light conditions. They also, in general, have great hearing and sharp fangs that they can use to fight with if needed. 
 
 ## 2. Aves Animus: 
-- Aves Animus have a pair of feathered wings on their backs. These wings vary greatly with different colors, patterns, sizes, and feather shapes. Wings that feature distinct and symmetrical patterns are seen as more beautiful. 
+- Aves Animus have a pair of feathered wings on their backs. These wings vary greatly with different colors, patterns, sizes, and feather shapes. Wings that feature distinct and symmetrical patterns are seen as more beautiful. Bioluminescence appears mostly on the skin. In society, Aves are suited to getting manual labor jobs, leadership positions, mining jobs, and more. They face the least limitations among the Animus in their society.
 
 ### Abilities:
 - The Aves Animus have incredibly strong wings, allowing them to fly in unstable flying conditions and strong winds more easily. They are best at flying long distances but can reach great speeds over time while gliding or diving. They are also better in the extreme cold than other Animus. Aves Animus also have very impressive vision, allowing them to see small objects from very far away. This helps when they are flying high in the sky to see things going on down below. 
 
 
 ## 3. Moth Animus:
-- The Moth Animus have a distinct pair of moth-like wings on their backs. These wings vary in color, shape, pattern, and size. Moth Animus are typically not as physically strong as the other Animus subspecies due to not being able to gain muscle as easily, but it is not impossible. They are not as good at flying either, but they are silent fliers, allowing them to get around quietly. Moth Animus are known for their beauty, which is why most exotic performers are moths. A beauty standard amongst moths is wing pattern symmetry. 
+- The Moth Animus have a distinct pair of moth-like wings on their backs. These wings vary in color, shape, pattern, and size. Moth Animus are typically not as physically strong as the other Animus subspecies due to not being able to gain muscle as easily, but it is not impossible. They are not as good at flying either, but they are silent fliers, allowing them to get around quietly. Moth Animus are known for their beauty, which is why most exotic performers are moths. A beauty standard amongst moths is wing pattern symmetry. Bioluminescence is mostly seen on their wings.
 
 ### Abilities:
 - The Moth Animus have a natural talent for stealth. They can camouflage themselves into any environment and erase their presence. With practice, they can become undetectable in every way possible. While it has never been officially reported, there are rumors that some Moth Animus can go through "The Change." (the names >n< I KNOW IM SORRY AHH) This event is when, for some reason, the Moth Animus gains a special ability. Some say that they gain the power to control someone's mind, or that they can even morph into other people. 
@@ -28,7 +28,7 @@ Species cannot cross-breed. It is against their nature and biologically impossib
 ## Animus Society
 - The Animus mostly live in Skyline City. They prefer the verticality of the city that was built mostly by their kind. While all Animus are given equal opportunity in society, their biological differences can impact their jobs and have led to the development of stereotypes. The Animus are not as close as other species are with their own kinds. They typically live faster-paced lives in the city and prefer to trust in themselves over others.
 - Most Animus do not have much interest in the Void Beings. Most believe they are just a myth or that the beings abandoned NOX. Either way, they do not have the patience for it all.
-- There is a higher rate of crime amongst the Animus, especially in Skyline City. This is mostly due to the lack of community (I will expand on this in the future after developing it more).
+- There is a higher rate of crime amongst the Animus, especially in Skyline City. This is mostly due to the lack of community (I will expand on this in the future after developing it more). Gangs activity is on the rise in the city.
 
 
 
