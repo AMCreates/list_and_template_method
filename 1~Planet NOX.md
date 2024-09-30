@@ -3,20 +3,14 @@
 This planet is very dark and would look like it is always night-time (based on what we define as night). The sky would be clear, allowing the stars and even galaxies to be visible from the surface of the planet. This planet orbits a very rare type of star called a Void Star. This type of star emits a unique kind of energy called Obsallum, which is hot but not very bright. (The “light” that it does produce is not on our light spectrum). The night is called “_______” and the day is called “________”. The day looks like our night with the void star in the sky and a little bit of moonlight-like illumination from it. Their version of night is a dark sky with stars, but no other planetary bodies visible. Life on this planet revolves around this day/night cycle similar to how we do.
 
 
-# Climate
-The regions of this planet experience many different climates ranging from tropical to polar. They also experience seasons with the planet’s rotation and orbit around its star. The planet also experiences a large amount of underwater volcanic activity.
-Even though the night is endless on NOX, the planet does have different climates and seasons for different regions.
-Most of the planet experiences a tropical climate. 
-This includes the Azuli coast.
-Tropical zones are very hot and humid most of the time. 
-Tropical storms are common and it rains nearly every 24 hours.
-The northernmost region, _______, has a continental climate.
-Their summers are warm to cool in temperature.
-Winters can be very harsh with snow, ice, and temperatures dropping well into the negatives.
-The region of _____ experiences a temperate climate.
-The summers are warm and humid.
-Winters are rather mild. 
+# Climate and Some Geography Notes
+The regions of this planet experience many different climates ranging from tropical to polar, and seasons with the planet’s rotation and orbit around its star. The planet also experiences a large amount of underwater volcanic activity. Most of the planet is covered in salt water (or not?) and experiences a tropical climate. Tropical zones are very hot and humid most of the time. Tropical storms are common and rain in these areas occurs at least once every 28 hours (day/night cycle; may change later). 
 
+The northernmost region, ___________, has a continental climate. The summers there are warm to cool in temperature and the winters can be very harsh with snow, ice, and temperatures dropping well into the negatives.
+
+The region of _____ experiences a temperate climate. The summers there are warm and humid and the winters are rather mild. 
+
+The region of _____ experiences a rather balanced climate. The summers there are warm and very windy. The winters can get pretty cold, but nowhere near as bad as the __________ region. 
 
 
 # Major Locations
