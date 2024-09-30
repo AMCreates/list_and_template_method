@@ -3,24 +3,25 @@
 This planet is very dark and would look like it is always night-time (based on what we define as night). The sky would be clear, allowing the stars and even galaxies to be clearly visible from the surface of the planet. This planet orbits a very rare type of star called a Void Star. This type of star emits a unique kind of energy called Obsallum, which is hot but not very bright. (The “light” that it does produce is not on our light spectrum). The night is called “_______” and the day is called “________”. Day looks like our night with the void star in the sky and a little bit of moonlight-like illumination from it. Their version of night is a dark sky with stars, but no other planetary bodies visible. Life on this planet revolves around this day/night cycle similar to how we do.
 
 # Major Locations
-Skyline City
+
+## Skyline City
 Skyline City is the main city
 Where many of the Anima live
 The Azuli sometimes travel here and sometimes live there
 Windy; helps with flying
 
-The Winding Forest
+## The Winding Forest
 Inspired by Aokigahara Forest in Japan (Temperate broadleaf and mixed forest)
 Where the Wellows mostly live
 Hilly forest with many caves
 Warm and cold seasons
 
-The Azuli Coast
+## The Azuli Coast
 Tropical
 Where the Azuli mostly live
 They also live in random spots along the coasts
 
-Oceans and Seas
+## Oceans and Seas
 The planet is mostly ocean.
 The Azure Sea (near the Azuli Coast/Capital) warm; lots of bioluminescence 
 The dark sea (cold water near forest)
