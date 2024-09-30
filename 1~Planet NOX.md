@@ -1,19 +1,16 @@
 # Planet NOX General
 
-This planet is very dark and would look like it is always night-time (based on what we define as night). The sky would be clear, allowing the stars and even galaxies to be clearly visible from the surface of the planet. This planet orbits a very rare type of star called a Void Star. This type of star emits a unique kind of energy called Obsallum, which is hot but not very bright. (The “light” that it does produce is not on our light spectrum). The night is called “_______” and the day is called “________”. Day looks like our night with the void star in the sky and a little bit of moonlight-like illumination from it. Their version of night is a dark sky with stars, but no other planetary bodies visible. Life on this planet revolves around this day/night cycle similar to how we do.
+This planet is very dark and would look like it is always night-time (based on what we define as night). The sky would be clear, allowing the stars and even galaxies to be visible from the surface of the planet. This planet orbits a very rare type of star called a Void Star. This type of star emits a unique kind of energy called Obsallum, which is hot but not very bright. (The “light” that it does produce is not on our light spectrum). The night is called “_______” and the day is called “________”. The day looks like our night with the void star in the sky and a little bit of moonlight-like illumination from it. Their version of night is a dark sky with stars, but no other planetary bodies visible. Life on this planet revolves around this day/night cycle similar to how we do.
 
 # Major Locations
 
 ## Skyline City
-Skyline City is the main city
-Where many of the Anima live
-The Azuli sometimes travel here and sometimes live there
-Windy; helps with flying
+Skyline City is the largest city on NOX and is located _________. This dramatically verticle and layered city is the center of business, entertainment, and crime. Most of the Animus population lives there, but the Azuli can commmonly be seen visiting or conducting business there as well. The city is very windy, which makes it a perfect area for the Animus.
 
 ## The Winding Forest
-Inspired by Aokigahara Forest in Japan (Temperate broadleaf and mixed forest)
-Where the Wellows mostly live
-Hilly forest with many caves
+The Winding Forest is heavily inspired by the Aokigahara Forest in Japan (a temperate broadleaf and mixed forest). This forest is massive, covering much of ________. It experiences cold winters and cool to warm summers. 
+The land is extremely dangerous for those who are on foot due to the expansive cave systems that seem to open up everywhere. The earth is uneven, making it hard to see where you are stepping at times, especially with the large tree roots creating a jungle gym all on their own. Ancient trees cover the sky in most parts of the forest with a thick canopy, preventing flying individuals from easily moving around either. This forest is said to be sacred and home to the Wellow. Other intelligent life knows to not enter the forest unless they have a death wish. If one were to enter the forest, even at the beginning of the day cycle, they still would not get very far before the Void Star leaves the sky once again. A sky without the Void Star in the Winding Forest is certain death. We will talk about that more later.
+
 Warm and cold seasons
 
 ## The Azuli Coast
