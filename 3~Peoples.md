@@ -28,7 +28,7 @@ Species cannot cross-breed. It is against their nature and biologically impossib
 ## Animus Society
 - The Animus mostly live in Skyline City. They prefer the verticality of the city that was built mostly by their kind. While all Animus are given equal opportunity in society, their biological differences can impact their jobs and have led to the development of stereotypes. The Animus are not as close as other species are with their own kinds. They typically live faster-paced lives in the city and prefer to trust in themselves over others.
 - Most Animus do not have much interest in the Void Beings. Most believe they are just a myth or that the beings abandoned NOX. Either way, they do not have the patience for it all.
-- There is a higher rate of crime amongst the Animus, especially in Skyline City. This is mostly due to the lack of community (I will expand on this in the future after developing it more). Gangs activity is on the rise in the city.
+- There is a higher rate of crime amongst the Animus, especially in Skyline City. This is mostly due to the lack of community (I will expand on this in the future after developing it more). Gang activity is on the rise in the city.
 
 
 
