@@ -13,6 +13,26 @@ Birds
 Owls
 
 Difference Races
+
+All Animus:
+
+Wings to fly
+Bats Animus:
+
+Echolocation
+Great hearing
+Fangs
+Bird Animus:
+
+Talons
+Very strong wings; better suited for the cold
+Incredible vision
+Moth Animus:
+
+Stealth
+Camouflage (they can blend into any environment and erase their presence)
+????????
+
 Abilities 
 
 Culture
