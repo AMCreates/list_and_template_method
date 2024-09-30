@@ -36,5 +36,7 @@ Moth Animus:
 
 The planet is their gift to share and nurture.
 
+Then, the beings disappeared. Some still believe they are watching over them, but others believe that the beings are gone forever.
+
 
 
