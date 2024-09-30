@@ -59,6 +59,10 @@ The tides (dangerous area full of currents)
 
 # Natural resources
 
+# Economy
+
+
+
 # Influences
 - Nivek from Star Wars
    - In perpetual darkness due to a… thick atmosphere???  (honestly idk plz someone explain it to me! Why no sun  >:0)
