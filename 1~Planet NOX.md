@@ -48,10 +48,12 @@ Most of the Azuli live there, but there are smaller communities that settle in m
 
 
 ## Oceans and Seas
-The planet is mostly covered by water.
-The Azure Sea (near the Azuli Coast/Capital) warm; lots of bioluminescence 
-The dark sea (cold water near forest)
-The tides (dangerous area full of currents)
+- The planet is mostly covered by water.
+- The Azure Sea (near the Azuli Coast/Capital) warm; lots of bioluminescence
+
+
+# NOX Prison
+NOX has one prison located next to Skyline City. All of those who are deemed guilty during their trials are sent to this place. The prison itself hangs from the cieling of a massive cave. 
 
 
 
@@ -68,7 +70,8 @@ The tides (dangerous area full of currents)
 - Most people outside Skyline City still rely on trading goods when possible. 
 
 # NOX Government
-The people of NOX all function under a council of five individuals, one from each group (Bats, Moths, Aves, the Azuli, the Wellow).
+The people of NOX all function under a council of five individuals, one from each group (Bats, Moths, Aves, the Azuli, the Wellow). This council gets the final say in all major affairs between their groups. They are viewed as the wisest among their people and can only be elected after serving their communities as elected officials for ten years.
+- Each major territory is also run by elected officials. They handle the more casual day-to-day business. 
 
 # Influences
 - Nivek from Star Wars
