@@ -1,7 +1,7 @@
 
 # The Creation of NOX
 
-According to their beliefs, the Azuli, the Animus, and the Wellow were created by four powerful beings called ____________. These beings of unknown origin came together to create a world. They molded a world with a variety of climates and terrain and life. The darkness of this world would be disturbed by a beautiful glow from the planet and the life on it. A range of colorful lights would pulse as if the orb were alive itself. These beings created the three peoples and gave them special abilities. 
+According to their beliefs, the Azuli, the Animus, and the Wellow were created by four powerful beings called the Void Beings. These beings of unknown origin came together to create a world. They molded a world with a variety of climates and terrain and life. The darkness of this world would be disturbed by a beautiful glow from the planet and the life on it. A range of colorful lights would pulse as if the orb were alive itself. These beings created the three peoples and gave them special abilities. 
 
 ### The Azuli: Being of the Water and Seas
 - Ability to travel through water
