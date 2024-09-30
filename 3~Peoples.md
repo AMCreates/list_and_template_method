@@ -1,3 +1,6 @@
+# Quick Note
+Species cannot cross-breed. It is against their nature and biologically impossible. 
+
 # Animus
 Have animalistic traits of nocturnal winged creatures
 Mostly live in cities
