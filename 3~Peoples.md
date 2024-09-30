@@ -1,7 +1,31 @@
 # Quick Note
-Species cannot cross-breed. It is against their nature and biologically impossible. 
+Species cannot cross-breed. It is against their nature and biologically impossible. While humans do not exist, I will be basing the appearances of the species on NOX off them, at least for now.
 
 # Animus
+The Animus is a species living on NOX that is made up of a few different subspecies (I may add more later). They all have wings and can fly, but each subspecies has different abilities, strengths, weaknesses, and experiences in society. Skin color amongst the Animus varies, but will always be a neutral color (like humans).
+
+## Subspecies
+
+### Bat Animus:
+Bat Animus have a pair of bat wings on their backs. These wings vary in color from black to tan. 
+
+#### Abilities:
+Bat Animus can use echolocation to communicate with eachother and locate objects when the Void Star is not in the sky or there are unusually low-light conditions. They also, in general, have great hearing and sharp fangs that they can use to fight with if needed. 
+
+
+### Aves Animus: 
+Aves Animus have a pair of feathered wings on their backs. These wings vary greatly with different colors, patters, sizes, and feather shapes. 
+
+#### Abilities:
+The Aves Animus have incredibly strong wings, allowing them to fly in unstable flying conditions and strong winds more easily. They are also better in the extreme cold than other Animus. Aves Animus also have very impressive vision, allowing them to see small objects from very far away. This helps when they are flying high in the sky to see things going on down below. 
+
+
+### Moth Animus:
+
+#### Abilities:
+The Moth Animus have a natural talent for stealth. They can camouflage themselves into any environment and erase their presence. While it has never been officially reported, there are rumors that some Moth Animus can go through "The Change." (the names >n< I KNOW IM SORRY AHH) This event is when, for some reason, the Moth Animus gains a special ability. Some say that they gain the power to control someone's mind, or that they can even morph into other people. 
+
+
 Have animalistic traits of nocturnal winged creatures
 Mostly live in cities
 Not a close community
@@ -17,24 +41,7 @@ Owls
 
 Difference Races
 
-All Animus:
 
-Wings to fly
-Bats Animus:
-
-Echolocation
-Great hearing
-Fangs
-Bird Animus:
-
-Talons
-Very strong wings; better suited for the cold
-Incredible vision
-Moth Animus:
-
-Stealth
-Camouflage (they can blend into any environment and erase their presence)
-????????
 
 Abilities 
 
