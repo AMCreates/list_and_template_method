@@ -16,8 +16,6 @@ According to their beliefs, the Azuli, the Animus, and the Wellow were created b
 ### The Animus: Beings of the Stars and Sky
 The Animus are a bit different from the other two groups. Two beings, twins, created them and had some creative differences when doing so. So, they created many variaitions of the Animus, some with unique abilities.
 
-![image](https://github.com/user-attachments/assets/9c166a64-0655-4be9-94fb-898f8af3ac51)
-
 All Animus:
 - Wings to fly
 
