@@ -55,9 +55,11 @@ NOX has one prison located next to Skyline City. All of those who are deemed gui
 
 # Technology
 - All technology will feed off of hydropower, wind power, and/or Obsallum (Void Star power), unless it is a manual mechanical machine, of course. 
-- Each home has a couple lights in them with a very dim light to use when the Void Star goes away.
+- Each home has a couple of lights in them with a very dim light to use when the Void Star goes away.
 - People will live harmoniously with nature and not use technology as much as we do. It is used to help improve lives when possible.
 - I do not want guns in this world.
+- Taking care of the planet is a very important thing for all of the groups.
+- No one on this planet can leave the planet with the current technology. They do not know of any other life. This WILL change in the future during a new age I have begun planning. 
 - I desperately need to flesh this out more.
 
 # Economy
