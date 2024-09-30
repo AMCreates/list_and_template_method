@@ -33,7 +33,9 @@ The Azuli Coast is the main hub for the Azuli and the second biggest city on NOX
 
 Most of the Azuli live there, but there are smaller communities that settle in more rural areas. Some Animus live there as well, especially those who have some sort of talent for swimming. Crime is much lower in this city.
 
-The Azuli play an important role in trade for their port and exports. 
+The Azuli play an important role in trade for their port and exports. The port is where a lot of trade and transfer of cargo happens. The cargo is then taken upriver to the other regions. 
+
+The Azuli are a close-knit people and often host festivals. 
 
 
 
@@ -43,17 +45,20 @@ The Azuli play an important role in trade for their port and exports.
 
 
 # NOX Prison
-NOX has one prison located next to Skyline City. All of those who are deemed guilty during their trials are sent to this place. The prison itself hangs from the cieling of a massive cave. 
+NOX has one prison located next to Skyline City. All of those who are deemed guilty during their trials are sent to this place. The prison itself hangs from the cieling of a massive cave. It is a pretty cold and wet environment. The prison does not focus on reforming prisoners, just keeping them out of society until their time is done. 
 
 
-
-
-# Maps
 
 # Natural resources
 - Valorite is a sacred crystal on NOX. This crystal is pitch black and can only be mined in certain locations. The Wellow provides most of this resource.
 - Star Stone is used to create Star Stones, which is NOX currency. It is a beautiful slightly translucent white stone. This stone can only be found at very high altitudes, so it is mined by the Animus. 
 
+# Technology
+- All technology will feed off of hydropower, wind power, and/or Obsallum (Void Star power), unless it is a manual mechanical machine, of course. 
+- Each home has a couple lights in them with a very dim light to use when the Void Star goes away.
+- People will live harmoniously with nature and not use technology as much as we do. It is used to help improve lives when possible.
+- I do not want guns in this world.
+- I desperately need to flesh this out more.
 
 # Economy
 - The world uses a global currency called Star Stones. They are these white smooth circular flat stones, about the size of a quarter, that have small ridges worn into the sides. This currency is used the most in Skyline City.
@@ -68,7 +73,7 @@ The people of NOX all function under a council of five individuals, one from eac
    - In perpetual darkness due to a… thick atmosphere???  (honestly idk plz someone explain it to me! Why no sun  >:0)
 - Pandora from Avatar
    - A moon that orbits a gas giant.
-   - Lots of bioluminesence 
+   - Lots of bioluminescence 
 
 
 
