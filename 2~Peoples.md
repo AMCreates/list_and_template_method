@@ -12,6 +12,21 @@ Can use echolocation
 Birds
 Owls
 
+Difference Races
+Abilities 
+
+Culture
+- What is right and wrong?
+- Differences between cultures
+- Class or caste systems
+- Historical backgrounds
+- Structures that support or underpin cultures in this world
+
+View On war
+Every day life
+
+
+
 # Wellow
 One is human-like and the other is animalistic. A dark entity. 
 They live in the mountainous forests and caves.
@@ -24,6 +39,19 @@ Prefer quiet dark places.
 Pretty secretive people; people do not really see them
 Very spiritual people
 
+Abilities 
+
+Culture
+- What is right and wrong?
+- Differences between cultures
+- Class or caste systems
+- Historical backgrounds
+- Structures that support or underpin cultures in this world
+
+View On war
+Every day life
+
+
 # Azuli
 People who can travel at super speed through water. 
 Have to hold their breath. 
@@ -35,6 +63,19 @@ Live in and near the water
 Great swimmers
 Rely on the sea for hunting
 Strong community 
+
+Abilities
+
+Culture
+- What is right and wrong?
+- Differences between cultures
+- Class or caste systems
+- Historical backgrounds
+- Structures that support or underpin cultures in this world
+
+View On war
+Every day life
+
 
 Eyes:
 Theyd all have great night vision; large pupils at night or in darkness
