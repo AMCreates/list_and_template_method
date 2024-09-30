@@ -26,18 +26,10 @@ Species cannot cross-breed. It is against their nature and biologically impossib
 - The Moth Animus have a natural talent for stealth. They can camouflage themselves into any environment and erase their presence. With practice, they can become undetectable in every way possible. While it has never been officially reported, there are rumors that some Moth Animus can go through "The Change." (the names >n< I KNOW IM SORRY AHH) This event is when, for some reason, the Moth Animus gains a special ability. Some say that they gain the power to control someone's mind, or that they can even morph into other people. 
 
 ## Animus Society
-- The Animus mostly live in Skyline City. They prefer the verticality of the city that was built mostly by their kind. While all Animus are given equal opportunity in society, their biological differences can impact their jobs and have led to the development of stereotypes. The Animus are not as close as other species are with their own kind. They typically live faster-paced lives in the city and prefer to trust in themselves over others. 
+- The Animus mostly live in Skyline City. They prefer the verticality of the city that was built mostly by their kind. While all Animus are given equal opportunity in society, their biological differences can impact their jobs and have led to the development of stereotypes. The Animus are not as close as other species are with their own kinds. They typically live faster-paced lives in the city and prefer to trust in themselves over others.
+- Most Animus do not have much interest in the Void Beings. Most believe they are just a myth or that the beings abandoned NOX. Either way, they do not have the patience for it all.
+- There is a higher rate of crime amongst the Animus, especially in Skyline City. This is mostly due to the lack of community (I will expand on this in the future after developing it more).
 
-
-Culture
-- What is right and wrong?
-- Differences between cultures
-- Class or caste systems
-- Historical backgrounds
-- Structures that support or underpin cultures in this world
-
-View On war
-Every day life
 
 
 
@@ -49,22 +41,6 @@ Every day life
 -  The Wellow are very spiritual and believe that the Void Beings still watch over them. They worship these beings, especially the being that created them, by meditating and presenting offerings of foraged items, artisan goods, and hand-made items.
 
 
-
-Some people wanted to research them and try to use them to make super soldiers. Created a new type of person, but they can’t control the dark side. 
-
-
-
-Abilities 
-
-Culture
-- What is right and wrong?
-- Differences between cultures
-- Class or caste systems
-- Historical backgrounds
-- Structures that support or underpin cultures in this world
-
-View On war
-Every day life
 
 
 # Azuli
