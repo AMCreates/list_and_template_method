@@ -68,7 +68,7 @@ The tides (dangerous area full of currents)
 - Most people outside Skyline City still rely on trading goods when possible. 
 
 # NOX Government
-The people of NOX all function under a council of five individuals, one from each group (Bats, Moths, Avons, the Azuli, the Wellow).
+The people of NOX all function under a council of five individuals, one from each group (Bats, Moths, Aves, the Azuli, the Wellow).
 
 # Influences
 - Nivek from Star Wars
