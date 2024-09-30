@@ -18,17 +18,9 @@ The region of _____ experiences a rather balanced climate. The summers there are
 
 ## Skyline City
 Skyline City is the largest city on NOX and is located _________. This dramatically verticle and layered city is the center of business, entertainment, and crime.
-- gangs
-- people going missing
-- dancers
-- appearance
-- culture
-- government
-- drugs
-- fighting rings
-- economy
 
-Most of the Animus population lives there, but the Azuli can commmonly be seen visiting or conducting business there as well. The city is very windy, which makes it a perfect area for the Animus.
+
+Most of the Animus population lives there, but the Azuli can commonly be seen visiting or conducting business there as well. The city is very windy, which makes it a perfect area for the Animus.
 
 ## The Winding Forest
 The Winding Forest is heavily inspired by the Aokigahara Forest in Japan (a temperate broadleaf and mixed forest). This forest is massive, covering much of ________. It experiences cold winters and cool to warm summers. 
@@ -40,11 +32,9 @@ The land is extremely dangerous for those who are on foot due to the expansive c
 The Azuli Coast is the main hub for the Azuli and the second biggest city on NOX. It is a tropical paradise with black sand beaches, glowing foliage, tall seaside cliffs, and a bustling long city that overlooks the Azure Sea. The city has a lower section closer to the sea and a section built into the rock of the cliffside. Water makes this city run. Canals weave around the buildings. Many buildings near the water even have water entrances to them. 
 
 Most of the Azuli live there, but there are smaller communities that settle in more rural areas. Some Animus live there as well, especially those who have some sort of talent for swimming. Crime is much lower in this city.
-- appearance
-- exports
-- culture
-- economy
-- government
+
+The Azuli play an important role in trade for their port and exports. 
+
 
 
 ## Oceans and Seas
