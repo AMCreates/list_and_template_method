@@ -13,6 +13,9 @@ The blue region experiences a temperate climate. The summers there are warm and 
 
 The white region experiences a rather balanced climate. The summers there are warm and very windy. The winters can get pretty cold, but nowhere near as bad as the orange region. 
 
+# Map 1
+![NOX_Map_01](https://github.com/user-attachments/assets/8ba1e752-a5e3-49c7-ac1c-1d5a98e837c1)
+
 
 # Major Locations
 
