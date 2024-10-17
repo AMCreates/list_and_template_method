@@ -22,6 +22,8 @@ The white region experiences a rather balanced climate. The summers there are wa
 ## Skyline City
 Skyline City is the largest city on NOX and is located in the white region. This dramatically verticle and layered city is the center of business, entertainment, and crime.
 
+Inspirations: Chongqing, China (Ccondense and verticle).
+
 
 Most of the Animus population lives there, but the Azuli can commonly be seen visiting or conducting business there as well. The city is very windy, which makes it a perfect area for the Animus.
 
