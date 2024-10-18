@@ -13,7 +13,7 @@ Under Construction :3
 # Vanora
 - Race: Azuli
 - Sex: Female
-- Age: 20
+- Age: 19
 - Appearance: 
 - Strengths: Intelligent, loyal
 - Weaknesses: Anxious, indecisive.
