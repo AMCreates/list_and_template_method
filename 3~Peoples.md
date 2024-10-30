@@ -27,7 +27,6 @@ Species cannot cross-breed. It is against their nature and biologically impossib
 - The Moth Animus have a distinct pair of moth-like wings on their backs. These wings vary in color, shape, pattern, and size. Moth Animus are typically not as physically strong as the other Animus subspecies due to not being able to gain muscle as easily, but it is not impossible. They are not as good at flying either, but they are silent fliers, allowing them to get around quietly. Moth Animus are known for their beauty, which is why most exotic performers are moths. A beauty standard amongst moths is wing pattern symmetry. Bioluminescence is mostly seen on their wings.
 
 ![image](https://github.com/user-attachments/assets/c84d6ef8-163a-4cba-855e-fc6c61c992b5)
-![image](https://github.com/user-attachments/assets/3437a624-713f-4d61-89b5-baec1fdb6ffc)
 
 
 ### Abilities:
