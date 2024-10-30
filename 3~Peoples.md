@@ -15,12 +15,20 @@ Species cannot cross-breed. It is against their nature and biologically impossib
 ## 2. Aves Animus: 
 - Aves Animus have a pair of feathered wings on their backs. These wings vary greatly with different colors, patterns, sizes, and feather shapes. Wings that feature distinct and symmetrical patterns are seen as more beautiful. Bioluminescence appears mostly on the skin. In society, Aves are suited to getting manual labor jobs, leadership positions, mining jobs, and more. They face the least limitations among the Animus in their society.
 
+![image](https://github.com/user-attachments/assets/312b45bf-c826-4971-a2ee-7293e4f4fae3)
+![image](https://github.com/user-attachments/assets/d47e24d9-320d-49f2-bc0a-fdb97a00e86c)
+
+
 ### Abilities:
 - The Aves Animus have incredibly strong wings, allowing them to fly in unstable flying conditions and strong winds more easily. They are best at flying long distances but can reach great speeds over time while gliding or diving. They are also better in the extreme cold than other Animus. Aves Animus also have very impressive vision, allowing them to see small objects from very far away. This helps when they are flying high in the sky to see things going on down below. 
 
 
 ## 3. Moth Animus:
 - The Moth Animus have a distinct pair of moth-like wings on their backs. These wings vary in color, shape, pattern, and size. Moth Animus are typically not as physically strong as the other Animus subspecies due to not being able to gain muscle as easily, but it is not impossible. They are not as good at flying either, but they are silent fliers, allowing them to get around quietly. Moth Animus are known for their beauty, which is why most exotic performers are moths. A beauty standard amongst moths is wing pattern symmetry. Bioluminescence is mostly seen on their wings.
+
+![image](https://github.com/user-attachments/assets/c84d6ef8-163a-4cba-855e-fc6c61c992b5)
+![image](https://github.com/user-attachments/assets/3437a624-713f-4d61-89b5-baec1fdb6ffc)
+
 
 ### Abilities:
 - The Moth Animus have a natural talent for stealth. They can camouflage themselves into any environment and erase their presence. With practice, they can become undetectable in every way possible. While it has never been officially reported, there are rumors that some Moth Animus can go through "The Change." (the names >n< I KNOW IM SORRY AHH) This event is when, for some reason, the Moth Animus gains a special ability. Some say that they gain the power to control someone's mind, or that they can even morph into other people. 
@@ -40,7 +48,9 @@ Species cannot cross-breed. It is against their nature and biologically impossib
 -  They do not use any advanced technology, just simple mechanical inventions that are used manually, such as pulley systems.
 -  The Wellow are very spiritual and believe that the Void Beings still watch over them. They worship these beings, especially the being that created them, by meditating and presenting offerings of foraged items, artisan goods, and hand-made items.
 
+![image](https://github.com/user-attachments/assets/f4762f61-f13b-405a-abf0-5de493c58ff7)
 
+![image](https://github.com/user-attachments/assets/459880cd-37ad-4a68-a0b9-6eaee030652f)
 
 
 # Azuli
@@ -52,6 +62,7 @@ Species cannot cross-breed. It is against their nature and biologically impossib
 - They live comfortably with nature and technology, even more so than the Animus. 
 - Some Azuli have the ability to manipulate water. This is pretty random. The Azuli still respect the Void Beings a lot, so some will pray to them that their children are granted the gift. 
 
+![image](https://github.com/user-attachments/assets/f39668b5-d1f9-445d-a5f1-7e0c4ae5f3ab)
 
 
 
